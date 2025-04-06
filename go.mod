@@ -1,4 +1,4 @@
-module github.com/shenli99/ktrun_tui
+module github.com/shenli99/ktrun-tui
 
 go 1.22.1
 
