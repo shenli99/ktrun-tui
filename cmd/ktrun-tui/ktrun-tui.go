@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"ktrun-tui/view"
+	"github.com/shenli99/ktrun-tui/view"
 
 	tea "github.com/charmbracelet/bubbletea"
 )
