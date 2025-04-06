@@ -4,8 +4,9 @@ import (
 	"fmt"
 	"os"
 
+	"ktrun-tui/view"
+
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/shenli99/ktrun-tui/view"
 )
 
 func main() {
